@@ -1,8 +1,8 @@
 ## Visualizing a Forest Stand Using a Point Cloud and Terrain Modeling
 
-Bryan Begay, Thomas Braun, Katie Nicolato
+Bryan Begay, Thomas Braun, Katie Nicolato | GEOG 572 Geovisual Analytics, Spring 2019
 
-GEOG 572 Geovisual Analytics, Spring 2019
+Final Project Proposal | April 23, 2019
 
 ### Motives 
 
